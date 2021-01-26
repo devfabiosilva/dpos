@@ -1,0 +1,47 @@
+var upos__wifi_8h =
+[
+    [ "upos_wifi_status_t", "de/d07/structupos__wifi__status__t.html", "de/d07/structupos__wifi__status__t" ],
+    [ "upos_wifi_cb_ctx_t", "de/da7/structupos__wifi__cb__ctx__t.html", "de/da7/structupos__wifi__cb__ctx__t" ],
+    [ "upos_wifi_event_cb_ctx_t", "db/d9a/structupos__wifi__event__cb__ctx__t.html", "db/d9a/structupos__wifi__event__cb__ctx__t" ],
+    [ "_UPOS_IP4", "db/dce/upos__wifi_8h.html#af95e7e425ea17b786a6c73bf82cc6b2a", null ],
+    [ "_UPOS_IP6", "db/dce/upos__wifi_8h.html#a9c9ad7198f6793586758febda0f07ac0", null ],
+    [ "upos_get_ip6_string", "db/dce/upos__wifi_8h.html#a478acaf2636bd38a6e53a45e9694dcf7", null ],
+    [ "upos_get_ip_string", "db/dce/upos__wifi_8h.html#a75c955a23c7db99aa8a37d1bc300c8af", null ],
+    [ "upos_wifi_disconnect", "db/dce/upos__wifi_8h.html#ac0053e1a528e3a49ee1c2eef800ff50a", null ],
+    [ "UPOS_WIFI_EVENT_CALLBACK", "db/dce/upos__wifi_8h.html#af0d4a27fb45bd865e30847a1efc11bd4", null ],
+    [ "upos_wifi_stop", "db/dce/upos__wifi_8h.html#a64d610c1786f9c379f84467727ba955b", null ],
+    [ "UPOS_WIFI", "db/dce/upos__wifi_8h.html#a375cf75e3b1b1db4f33d2e5621f98f9f", null ],
+    [ "upos_wifi_cb", "db/dce/upos__wifi_8h.html#ab26c48e15da10460389b4f9e8123d1ec", null ],
+    [ "UPOS_WIFI_CB_CTX", "db/dce/upos__wifi_8h.html#afc224a73a54b3ac39665cb674755f08c", null ],
+    [ "UPOS_WIFI_ERR", "db/dce/upos__wifi_8h.html#a857f555c11a32513d54b4e9551374996", null ],
+    [ "UPOS_WIFI_EVENT_CTX", "db/dce/upos__wifi_8h.html#a8e1058f61b6b197671d03fa6aa1575eb", null ],
+    [ "UPOS_WIFI_EVENT_ENUM", "db/dce/upos__wifi_8h.html#a9c1780ac28fdf4a70d1f0ecd6ad3f4bf", null ],
+    [ "upos_wifi_err_t", "db/dce/upos__wifi_8h.html#a3453af07788defedec93f1db30676c2d", [
+      [ "UPOS_WIFI_OK", "db/dce/upos__wifi_8h.html#a3453af07788defedec93f1db30676c2dac8316a05072ab02d7d1307f32c09f317", null ],
+      [ "UPOS_WIFI_SSID_TOO_LONG", "db/dce/upos__wifi_8h.html#a3453af07788defedec93f1db30676c2da01b19a4b85f8ac93aa4aec179e5d8862", null ],
+      [ "UPOS_WIFI_PASSWORD_TOO_LONG", "db/dce/upos__wifi_8h.html#a3453af07788defedec93f1db30676c2da22673bd5865a37935354c553f8671f98", null ],
+      [ "UPOS_WIFI_SSID_EMPTY_STRING", "db/dce/upos__wifi_8h.html#a3453af07788defedec93f1db30676c2da0febd24353ff76b63bb89e6aff11b2da", null ]
+    ] ],
+    [ "upos_wifi_event_type_e", "db/dce/upos__wifi_8h.html#aa27d5d9d94d8b9ca5ca82c3f71c6fabe", [
+      [ "WIFI_EV_DISCONNECT", "db/dce/upos__wifi_8h.html#aa27d5d9d94d8b9ca5ca82c3f71c6fabea4c4b91a0302a3d217e7bdc2f15c6ffa1", null ],
+      [ "WIFI_EV_DISCONNECT_ERROR", "db/dce/upos__wifi_8h.html#aa27d5d9d94d8b9ca5ca82c3f71c6fabeabf4ca5a4a2921b490c6adad30f857d26", null ],
+      [ "WIFI_EV_RECONNECT", "db/dce/upos__wifi_8h.html#aa27d5d9d94d8b9ca5ca82c3f71c6fabea1386e371e99f03a28559f76e2066b9f6", null ],
+      [ "WIFI_EV_RECONNECT_ERROR", "db/dce/upos__wifi_8h.html#aa27d5d9d94d8b9ca5ca82c3f71c6fabeaf44a0dd87392a0ee9b523ba56e37ad8e", null ],
+      [ "WIFI_EV_CONNECT", "db/dce/upos__wifi_8h.html#aa27d5d9d94d8b9ca5ca82c3f71c6fabea4677e7c35dab69ed0d1de821db308eae", null ],
+      [ "WIFI_EV_CONNECT_ERROR", "db/dce/upos__wifi_8h.html#aa27d5d9d94d8b9ca5ca82c3f71c6fabea1a89f2b668827cb5d30447e3432b2d78", null ],
+      [ "WIFI_EV_GOT_IP", "db/dce/upos__wifi_8h.html#aa27d5d9d94d8b9ca5ca82c3f71c6fabeab808ff4ac8ff8737c34de1eefefeefbb", null ],
+      [ "WIFI_EV_GOT_IPV6_IP", "db/dce/upos__wifi_8h.html#aa27d5d9d94d8b9ca5ca82c3f71c6fabea509ffa70fdf985c34a4ce9942377614a", null ]
+    ] ],
+    [ "get_ip6_string", "db/dce/upos__wifi_8h.html#ac6b8651631de329badc3c63b5d12e053", null ],
+    [ "get_ip_string", "db/dce/upos__wifi_8h.html#aa8279282787a88426660f12b28deb564", null ],
+    [ "get_ip_string_util", "db/dce/upos__wifi_8h.html#a0ea447d4ae0902be5c13df5c442d4dd1", null ],
+    [ "get_ssid", "db/dce/upos__wifi_8h.html#a1e16affd5931147a2f022cb8522d4861", null ],
+    [ "upos_get_error_message", "db/dce/upos__wifi_8h.html#ad2fde1b14c80cf138e738933217d683d", null ],
+    [ "upos_get_wifi_error", "db/dce/upos__wifi_8h.html#abcf970b5b4895c252bac77f60e514b19", null ],
+    [ "upos_is_wifi_enabled", "db/dce/upos__wifi_8h.html#ad3870b404c97fb31b72e516d3119de27", null ],
+    [ "upos_wait_connect", "db/dce/upos__wifi_8h.html#a2998f2c0043653c8ce50acfb00278406", null ],
+    [ "upos_wifi_delete_event_error_cb", "db/dce/upos__wifi_8h.html#a4e6a4c503bb65cd84f7e5effa0e0cdbe", null ],
+    [ "upos_wifi_set_event_error_cb", "db/dce/upos__wifi_8h.html#aeb16c55d901f74a8e4ab4af1cf969e36", null ],
+    [ "upos_wifi_start", "db/dce/upos__wifi_8h.html#adc70358efea472a64307c9d758c66bcb", null ],
+    [ "upos_wifi_stop_util", "db/dce/upos__wifi_8h.html#a40ceb7ec2e24063b3fd0509a406bc888", null ]
+];

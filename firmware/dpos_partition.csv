@@ -1,0 +1,9 @@
+nvs,           data,      nvs,       , 0x4000,
+phy_init,      data,      phy,       , 0x2000, encrypted
+dposotadat,    data,      ota,       , 0x4000, encrypted
+dposdata,      122,        30,       , 0x4000, encrypted
+factory,       app,   factory,       , 0x180000, encrypted
+int_ota_0,     app,     ota_0,       , 0x080000, encrypted
+dpos_store,    data,   spiffs,       , 0x154000,
+dpos_recvry,   126,        20,       , 0x7B000, encrypted
+
